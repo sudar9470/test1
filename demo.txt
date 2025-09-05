@@ -1,0 +1,4 @@
+create a demo page
+  git is version control.
+  multiple user can access in same time 
+  I am using github for the first time i really enjoy by learning github it will reduce my job to store all record
